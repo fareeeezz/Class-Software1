@@ -7,9 +7,10 @@
   width: 200px;
   padding: 20px;
   color: #800040;
-  font-size: 32000px; /* 20x bigger (was ~16px default) */
+  font-size: 3200px; /* 20x bigger (was ~16px default) */
   font-family: Arial, Helvetica, sans-serif; /* clean readable font */
   font-weight: bold;
   text-align: center;
 }
+
 
