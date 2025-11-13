@@ -1,12 +1,14 @@
-.container{
-width: 100%;
-padding: 20px;
-
+.container {
+  width: 100%;
+  padding: 20px;
 }
 
-.textbox{
-width: 200px;
-padding: 20px;
-color: #800040;
-
+.textbox {
+  width: 200px;
+  padding: 20px;
+  color: #800040;
+  font-size: 320px; /* 20x bigger (was ~16px default) */
+  font-family: Arial, Helvetica, sans-serif; /* clean readable font */
+  font-weight: bold;
+  text-align: center;
 }
